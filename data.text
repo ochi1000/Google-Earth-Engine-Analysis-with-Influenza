@@ -1,0 +1,52 @@
+Enter the path to the JSON file: dailyCO.json
+Enter the column name to get unique values: pollutant_standard
+Unique values and their counts for column 'pollutant_standard':
+pollutant_standard
+CO 1-hour 1971    699
+CO 8-hour 1971    699
+
+Enter the path to the JSON file: dailyNO2.json
+Enter the column name to get unique values: pollutant_standard
+Unique values and their counts for column 'pollutant_standard':
+pollutant_standard
+NO2 Annual 1971    1780
+NO2 1-hour 2010    1780
+
+Enter the path to the JSON file: dailyOzone.json
+Enter the column name to get unique values: pollutant_standard
+Unique values and their counts for column 'pollutant_standard':
+pollutant_standard
+Ozone 8-Hour 1997    2501
+Ozone 8-Hour 2008    2501
+Ozone 1-hour 1979    2496
+Ozone 8-hour 2015    2491
+
+Enter the path to the JSON file: dailyPM10.json
+Enter the column name to get unique values: pollutant_standard
+Unique values and their counts for column 'pollutant_standard':
+pollutant_standard
+PM10 24-hour 2006    794
+
+
+Enter the path to the JSON file: dailyPM25.json
+Enter the column name to get unique values: pollutant_standard
+Unique values and their counts for column 'pollutant_standard':
+pollutant_standard
+PM25 24-hour 2006    3822
+PM25 24-hour 2012    3822
+PM25 Annual 1997     3822
+PM25 24-hour 1997    3822
+PM25 24-hour 2024    3822
+PM25 Annual 2024     3822
+PM25 Annual 2012     3648
+PM25 Annual 2006     3648
+
+
+Enter the path to the JSON file: dailySO2.json
+Enter the column name to get unique values: pollutant_standard
+Unique values and their counts for column 'pollutant_standard':
+pollutant_standard
+SO2 Annual 1971     1061
+SO2 1-hour 2010     1061
+SO2 3-hour 1971     1059
+SO2 24-hour 1971    1042
