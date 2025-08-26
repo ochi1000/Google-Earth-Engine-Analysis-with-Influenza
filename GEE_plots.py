@@ -3,7 +3,7 @@ import datetime
 import folium
 
 # Initialize the Earth Engine module.
-ee.Initialize()
+ee.Initialize(project='lsus-448518')
 
 # Define the region of interest (example: New Orleans, Louisiana)
 region = ee.Geometry.Point([41.886262, -87.622844]).buffer(5000)  # 5 km buffer
